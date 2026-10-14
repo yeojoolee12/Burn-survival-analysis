@@ -21,4 +21,4 @@ This repository contains a survival analysis comparing a novel bathing solution 
 * `burn.csv` : Dataset used for analysis.
 * `index.html` : Rendered HTML report.
 * 
-🔗 **Interactive Web Report:** https://yeojoolee12.github.io/burn-survival-analysis/
+🔗 **Interactive Web Report:** https://yeojoolee12.github.io/Burn-survival-analysis/
